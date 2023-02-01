@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+article {
+    width: 600px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 10px;
+    text-align: center;
+} 
+
+section#album img {
+    width: 500px;
+    height: 500px;
+}
+
+li {
+    list-style: none;
+}
+
+h1 {
+    font-weight: bolder;
+    text-align: center;
+}
+
+h2 {
+    font-weight: bolder;
+}
+
+

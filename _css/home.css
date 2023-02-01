@@ -28,7 +28,7 @@ nav#menu ul {
     text-transform: uppercase;
     position: absolute;
     top: 0px;
-    left: 870px;
+    left: 800px;
 }
 
 nav#menu li {
@@ -43,6 +43,11 @@ nav#menu li {
 
 nav#menu li:hover {
     background-color: orangered;
+}
+
+nav#menu a {
+    text-decoration: none;
+    color: black;
 }
 
 nav#menu h2 {
