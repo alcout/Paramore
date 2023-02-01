@@ -65,7 +65,7 @@ section#corpo h2 {
     display: inline-block;
     vertical-align: top;
     font-size: 30pt;
-    width: 1px;
+    width: 40px;
 }
 
 section#corpo h2:hover {
@@ -77,7 +77,8 @@ section#corpo p {
     width: 500px;
     text-align: justify;
     text-indent: 20px;
-    vertical-align: 300%;
+    vertical-align: -400%;
+    
 }
 
 section#corpo p:hover {
@@ -87,6 +88,7 @@ section#corpo p:hover {
 img#a-banda {
     border-radius: 5px;
 }
+
 
 footer#rodape {
     font-size: 15pt;
@@ -104,3 +106,33 @@ footer#rodape a:hover {
     text-decoration:underline;
     transition: 1s;
 }
+
+div#carouselExampleCaptions {
+    width: 900px;
+    height: 600px;
+    position: relative;
+    left: 200px;
+}
+
+h5 {
+    font-family: 'Titillium Web', sans-serif;
+    color:orangered;
+    font-weight: bolder;
+    font-size: 50pt;
+    text-shadow:-1px -1px 0px rgb(10, 10, 10), 
+    -1px 1px 0px rgb(10, 10, 10),      
+     1px -1px 0px rgb(10, 10, 10),    
+     1px 0px 0px rgb(10, 10, 10);
+}
+
+div#carouselExampleCaptions p{
+    color: black;
+    font-size: 20pt;
+    font-family: 'Titillium Web', sans-serif;
+    text-shadow:-1px -1px 0px #FFF, 
+    -1px 1px 0px #FFF,      
+     1px -1px 0px #FFF,    
+     1px 0px 0px #FFF;
+}
+
+
