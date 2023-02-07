@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+div#integrantes {
+  padding: 10px 10px 10px 10px;
+}
+ h2 {
+    text-decoration: solid;
+    text-decoration: rgb(255, 81, 0) wavy underline;
+    text-shadow: 1px 1px 2px rgb(255, 81, 0);
+    text-align: center;
+ }
+
+ figure#hayley {
+  position: relative;
+  margin-left: 400px;
+  
+}
+
+figure#taylor {
+  position: relative;
+  margin-left: 200px;
+  
+}
+
+figure#zac {
+  position: relative;
+  margin-left: 600px;
+  margin-top: -273px;
+}

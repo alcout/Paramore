@@ -6,6 +6,14 @@ body {
     font-family: 'Titillium Web', sans-serif;
 }
 
+div#interface {
+    width: 1200px;
+    background-color: whitesmoke;
+    margin: 0px auto 10px auto;
+    box-shadow: 0px 0px 10px black;
+    
+}
+
 header#cabecalho h2,
 ul {
     font-family: 'Titillium Web', sans-serif;
@@ -14,7 +22,7 @@ ul {
 
 img#cabecalho {
     position: relative;
-    left: 30px;
+    width: 1200px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
 }
 
@@ -55,14 +63,14 @@ nav#menu h2 {
 }
 
 section#corpo {
-    width: 1200px;
+    width: 1100px;
     padding: 10px 10px 10px 10px;
     margin: 20px 20px 20px 20px;
     background-color: #0c0c0c;
     color: white;
     border-radius: 10px;
     position: relative;
-    right: -3%;
+    right: -2%;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
 }
 
@@ -92,6 +100,7 @@ section#corpo p:hover {
 
 img#a-banda {
     border-radius: 5px;
+    width: 500px;
 }
 
 
@@ -116,7 +125,7 @@ div#carouselExampleCaptions {
     width: 900px;
     height: 600px;
     position: relative;
-    left: 200px;
+    left: 150px;
 }
 
 h5 {
